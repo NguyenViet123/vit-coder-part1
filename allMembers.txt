@@ -1,0 +1,14 @@
+So luong thanh vien: 3
+==========================
+id: 1
+name: viet
+actPoint: 100
+grId: 1
+id: 1
+name: viet nv
+actPoint: 100
+grId: 1
+id: 2
+name: dat nv
+actPoint: 100
+grId: 1
